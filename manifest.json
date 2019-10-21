@@ -1,0 +1,12 @@
+{
+    "manifest_version": 1,
+    "name": "chrome_carousel",
+    "description": "Yet another carousel extension for Chrome.",
+    "version": "1",
+    "author": "alexandergeegds",
+    "browser_action": {
+        "default_icon": "",
+        "default_title": ""
+    },
+    "permissions": []
+}
